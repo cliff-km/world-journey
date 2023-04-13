@@ -6,6 +6,8 @@ The hyptothesis of this project is that you might often want to contrain your ge
 
 To solve this problem, these tools aim to help you define your worlds into sets of GPT directives that can be used to pre-process MidJourney prompts so that GPT will handle the style, thematic, and stylistic constraints.
 
+It uses things I learned from working on https://github.com/cliff-km/prompt-journey
+
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
