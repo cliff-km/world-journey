@@ -2,6 +2,10 @@
 
 Worldbuilding tools built around MidJourney and GPT.
 
+The hyptothesis of this project is that you might often want to contrain your generated images so that they fit together in one world. This means aligning them by setting constraints, thematic constraints, and stylistic constraints. You could achieve this manually by sticking to the same artists, appending common keywords, etc., but it can become very tedious and troublesome.
+
+To solve this problem, these tools aim to help you define your worlds into sets of GPT directives that can be used to pre-process MidJourney prompts so that GPT will handle the style, thematic, and stylistic constraints.
+
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
